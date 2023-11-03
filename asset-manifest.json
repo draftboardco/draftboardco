@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/draftboardco/static/css/main.ed2432fb.css",
+    "main.js": "/draftboardco/static/js/main.24d19cfd.js",
+    "static/js/787.fe0bfcc0.chunk.js": "/draftboardco/static/js/787.fe0bfcc0.chunk.js",
+    "static/media/logo.svg": "/draftboardco/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/draftboardco/index.html",
+    "main.ed2432fb.css.map": "/draftboardco/static/css/main.ed2432fb.css.map",
+    "main.24d19cfd.js.map": "/draftboardco/static/js/main.24d19cfd.js.map",
+    "787.fe0bfcc0.chunk.js.map": "/draftboardco/static/js/787.fe0bfcc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed2432fb.css",
+    "static/js/main.24d19cfd.js"
+  ]
+}
